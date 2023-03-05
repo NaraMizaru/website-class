@@ -1,0 +1,20 @@
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.btn-custom {
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.btn-custom-red {
+  background-color: #EB1D36;
+  color: white;
+}
+
+.btn-custom-red:hover {
+  background-color: #FA9494;
+  color: white;
+}
